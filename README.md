@@ -1,17 +1,19 @@
 # fract-ol
+
 Discovering 2D coding and fractals with this project 🌀
 Fract'ol is a School 42 project. The purpose of this project is to create fractal renderer.
 macOS only supported.
 For the purpose of this projet, i'm using the last version of MLX library from 42 for graphic rendering, combined with complex number from my friend MATHS 🧮
 
 # USAGE
+
 How to run program?
 You can run the project with the following command:
 make all
 ./fractol <name>
 Name is either julia or mandelbrot
 Have fun 👽
-(You scrool to moove in the fractals and moove your mouse in julia set to make some magic happens 🤯)
+(You can scrool to zoom the fractals and moove your mouse in julia set to make some magic happens 🤯)
 
 # Mandelbrot SET
 
